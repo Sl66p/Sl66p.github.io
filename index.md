@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# All About Bryce "Sleep" S.
 
-You can use the [editor on GitHub](https://github.com/Sl66p/Sl66p.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Personal Note
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! Im Bryce, online I commonly go by the name "Sleep" or "Sl66p", both being pronunced as the word "Sleep". Im a student in cybersecurity attending the HACC, I am currently working toward my Testout Linux Pro Certification, after just completeing my Testout Security Pro. I also do a small amount of development for ColDog Studios, [Find ColDog Studios here!](ColdogStudios.github.io), type "Sl66p" to find info about me in most ColDog Studios Programs! I also am currently attending High School, and plan to attend a 4 year college to expand my knowledge in Internet Technologies, or I will directly enter the workforce.
 
-### Markdown
+## Contact Me!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Socials
+[Twitter](www.twitter.com/AyySl66p)
 
-```markdown
-Syntax highlighted code block
+[Instagram](www.instagram.com/prollysleepy999)
 
-# Header 1
-## Header 2
-### Header 3
+[LinkedIn](https://www.linkedin.com/in/bryce-slabaugh-240b3421a/)
 
-- Bulleted
-- List
+^^***Any questions? Send me message!***^^
 
-1. Numbered
-2. List
+# All Tech/Business Info
 
-**Bold** and _Italic_ and `Code` text
+## Certifications
+- Testout Linux Pro (In Progress)
+- Testout Security Pro
+- Testout PC Pro
+- Testout IT Fundementals Pro
+- Cisco Introduction to Cybersecurity
 
-[Link](url) and ![Image](src)
-```
+## Employment/Education
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Employment
+- Associate With Walmart Corp.
+- Application Tester/Programmer and Security Analyst for ColDog Stuidos
 
-### Jekyll Themes
+### Education
+- Student at Hillsdale High School
+- Student at Hillsdale Area Career Center learning Cybersecurity
+- Self taught programmer in multiple languages, (these vary because **i only really brush up for projects i currently am working on**, ask me about this and ill tell you!)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sl66p/Sl66p.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Further Questions?
+### Contact me! 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+^^Refer to the Socials Tab!^^
