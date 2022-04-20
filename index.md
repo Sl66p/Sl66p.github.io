@@ -2,14 +2,14 @@
 
 ## Personal Note
 
-Hello! Im Bryce, online I commonly go by the name "Sleep" or "Sl66p", both being pronunced as the word "Sleep". Im a student in cybersecurity attending the HACC, I am currently working toward my Testout Linux Pro Certification, after just completeing my Testout Security Pro. I also do a small amount of development for ColDog Studios, [Find ColDog Studios here!](ColdogStudios.github.io), type "Sl66p" to find info about me in most ColDog Studios Programs! I also am currently attending High School, and plan to attend a 4 year college to expand my knowledge in Internet Technologies, or I will directly enter the workforce.
+Hello! Im Bryce, online I commonly go by the name "Sleep" or "Sl66p", both being pronunced as the word "Sleep". Im a student in cybersecurity attending the HACC, I am currently working toward my Testout Linux Pro Certification, after just completeing my Testout Security Pro. I also do a small amount of development for ColDog Studios, [Find ColDog Studios here!](https://ColdogStudios.github.io), type "Sl66p" to find info about me in most ColDog Studios Programs! I also am currently attending High School, and plan to attend a 4 year college to expand my knowledge in Internet Technologies, or I will directly enter the workforce.
 
 ## Contact Me!
 
 ### Socials
-[Twitter](www.twitter.com/AyySl66p)
+[Twitter](https://www.twitter.com/AyySl66p)
 
-[Instagram](www.instagram.com/prollysleepy999)
+[Instagram](https://www.instagram.com/prollysleepy999)
 
 [LinkedIn](https://www.linkedin.com/in/bryce-slabaugh-240b3421a/)
 
